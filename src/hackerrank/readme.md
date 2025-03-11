@@ -1,4 +1,3 @@
-список найпростіших задач:
 - https://www.hackerrank.com/challenges/simple-array-sum/problem
 - https://www.hackerrank.com/challenges/compare-the-triplets/problem
 - https://www.hackerrank.com/challenges/a-very-big-sum/problem
